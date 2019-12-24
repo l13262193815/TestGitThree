@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("This is update once");
 		System.out.println("conflict");
 		System.out.println("sovle");
+		System.out.println("³åÍ»");
 	}
 
 }
