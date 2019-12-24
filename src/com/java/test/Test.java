@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Ô¶³ÌÉÏ´«");
 		System.out.println("This is update once");
 		System.out.println("conflict");
+		System.out.println("sovle");
 	}
 
 }
