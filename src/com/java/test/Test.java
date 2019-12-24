@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("打印输出");
 		System.out.println("远程上传");
 		System.out.println("This is update once");
+		System.out.println("conflict");
 	}
 
 }
